@@ -6,7 +6,9 @@
 *.code-workspace
 
 # 忽略 .idea
+.github
 .idea/
+venv/
 
 # 忽略python缓存文件
 */__pycache__
